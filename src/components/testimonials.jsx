@@ -41,7 +41,19 @@ export const Testimonials = (props) => {
               effort.
             </p>
             <h1>2. Wahid & Emon Group Sdn Bhd</h1>
+            <p>
+               Wahid & Emon Group Sdn Bhd is a private limited company and has 
+               been existed for 7 years.  Wahid & Emon Group Sdn Bhd's business 
+               includes export and import of other household goods N.E.C.; 
+               wholesale of construction materials; other retail sale in 
+               non-specialised stores N.E.C.
+            </p>
             <h1>3. Fly Line Tours & Travels</h1>
+            <p>
+              Fly Line Tours & Travels provide wide range of services like visa 
+              assistance, tours, ticketing (train, air, bus) worldwide & hotel 
+              reservations since 2015.
+            </p>
             <h1>4. Future Line Consultants</h1>
             <p>
               Future Line Consultant's was established in 2015, It's a concern
