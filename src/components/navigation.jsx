@@ -15,6 +15,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{" "}
             <span className='icon-bar'></span>{" "}
           </button>
+          <img src='logo.png' alt='Italian Trulli'></img>
           <a className='navbar-brand page-scroll' href='#page-top'>
             EMON EMPLOYMENT SERVICES
           </a>{" "}
